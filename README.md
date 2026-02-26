@@ -1,2 +1,2 @@
 # electricity_billing_system
-This is my first repository written in java program.
+This is my first repository written in java language .
